@@ -1,0 +1,11 @@
+{
+	"surname": "Tumass",
+	"name": "Kate",
+	"age": 33,
+	"salary": "1100$",
+	"pets": {
+			"dog": "Gav",
+			"cat": "Myaw",
+			"parrot": "Kesha"
+		}
+}
